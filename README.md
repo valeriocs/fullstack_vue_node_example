@@ -1,6 +1,6 @@
 Mvp básico com front e backend para consumo da API do Github para listagem de repositórios filtrados pela linguagem informada pelo usuário.
 
-- [Teste Cargo full-stack](#teste-cargo-full-stack)
+- [Teste full-stack](#teste-cargo-full-stack)
   - [Front-end](#front-end)
     - [O que foi desenvolvido](#o-que-foi-desenvolvido)
     - [Como usar](#como-usar)
