@@ -38,7 +38,7 @@ Api restful que consome a api do github através do pacote Octokit/rest para a i
 - NodeJS rodando com express para definição das rotas em restful
 - Cors para permitir acesso da aplicação web ao endpoint desenvolvido para busca de depositório
 - Models para simplificar entradas e saidas nas chamadas da API
-- Repository Pattern
+
 - Endpoint para listagem de linguagens para o select no front-end
 
 ENDPOINT (/github-repositories) apenas com método GET para listagem dos repositórios filtrados pela linguagem informada
@@ -62,7 +62,7 @@ Aplicação configurada para rodar na porta 3000.
 
 - [x] Interface web
 - [x] Api em NodeJs
-- [x] Repository Pattern
+
 - [x] Definição das models para consumo da API Github
 - [x] Configuração de MongoDB
 - [x] Endpoint com conexao com MongoDB para listagem dinamica das linguagens no front-end
